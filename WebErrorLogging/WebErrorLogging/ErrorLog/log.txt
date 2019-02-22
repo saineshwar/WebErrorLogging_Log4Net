@@ -1,0 +1,9 @@
+2019-02-10 18:30:02,158 [7] DEBUG WebErrorLogging.Controllers.DefaultController [(null)] - Hi I am log4net Debug Level
+2019-02-10 18:30:02,174 [7] INFO  WebErrorLogging.Controllers.DefaultController [(null)] - Hi I am log4net Info Level
+2019-02-10 18:30:02,176 [7] WARN  WebErrorLogging.Controllers.DefaultController [(null)] - Hi I am log4net Warn Level
+2019-02-10 18:30:02,199 [7] ERROR WebErrorLogging.Controllers.DefaultController [(null)] - Hi I am log4net Error Level
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at WebErrorLogging.Controllers.DefaultController.Index() in E:\DemoProject\WebErrorLogging\WebErrorLogging\Controllers\DefaultController.cs:line 21
+2019-02-10 18:30:02,203 [7] FATAL WebErrorLogging.Controllers.DefaultController [(null)] - Hi I am log4net Fatal Level
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at WebErrorLogging.Controllers.DefaultController.Index() in E:\DemoProject\WebErrorLogging\WebErrorLogging\Controllers\DefaultController.cs:line 21
