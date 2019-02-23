@@ -1,4 +1,4 @@
-# Using Log4Net for Logging Errors in ASP.NET MVC 
+# Using Log4Net for Logging in ASP.NET MVC
 
 <img src="https://github.com/saineshwar/WebErrorLogging_ELMAH/blob/master/image001.png?raw=true" alt="Banner" title="Banner" style="max-width:100%;">
 
